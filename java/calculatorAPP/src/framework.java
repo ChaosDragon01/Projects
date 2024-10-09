@@ -110,8 +110,8 @@ class framework extends JFrame implements ActionListener, KeyListener {
     public void actionPerformed(ActionEvent e) {
         // TODO Auto-generated method stub
 
-        
-        
+
+        // New comment         
 
         throw new UnsupportedOperationException("Unimplemented method 'actionPerformed'");
     }
